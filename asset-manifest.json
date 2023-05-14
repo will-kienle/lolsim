@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/lolsim-ui/static/css/main.6d56cc4b.chunk.css",
-    "main.js": "/lolsim-ui/static/js/main.14bd622e.chunk.js",
-    "main.js.map": "/lolsim-ui/static/js/main.14bd622e.chunk.js.map",
-    "runtime-main.js": "/lolsim-ui/static/js/runtime-main.07a5d9b6.js",
-    "runtime-main.js.map": "/lolsim-ui/static/js/runtime-main.07a5d9b6.js.map",
-    "static/css/2.2128f240.chunk.css": "/lolsim-ui/static/css/2.2128f240.chunk.css",
-    "static/js/2.84e24a45.chunk.js": "/lolsim-ui/static/js/2.84e24a45.chunk.js",
-    "static/js/2.84e24a45.chunk.js.map": "/lolsim-ui/static/js/2.84e24a45.chunk.js.map",
-    "static/js/3.10818d6a.chunk.js": "/lolsim-ui/static/js/3.10818d6a.chunk.js",
-    "static/js/3.10818d6a.chunk.js.map": "/lolsim-ui/static/js/3.10818d6a.chunk.js.map",
-    "index.html": "/lolsim-ui/index.html",
-    "static/css/2.2128f240.chunk.css.map": "/lolsim-ui/static/css/2.2128f240.chunk.css.map",
-    "static/css/main.6d56cc4b.chunk.css.map": "/lolsim-ui/static/css/main.6d56cc4b.chunk.css.map",
-    "static/js/2.84e24a45.chunk.js.LICENSE.txt": "/lolsim-ui/static/js/2.84e24a45.chunk.js.LICENSE.txt",
-    "static/media/question-circle.svg": "/lolsim-ui/static/media/question-circle.44981e3f.svg"
+    "main.css": "/lolsim/static/css/main.6d56cc4b.chunk.css",
+    "main.js": "/lolsim/static/js/main.ed3af562.chunk.js",
+    "main.js.map": "/lolsim/static/js/main.ed3af562.chunk.js.map",
+    "runtime-main.js": "/lolsim/static/js/runtime-main.14b3e122.js",
+    "runtime-main.js.map": "/lolsim/static/js/runtime-main.14b3e122.js.map",
+    "static/css/2.2128f240.chunk.css": "/lolsim/static/css/2.2128f240.chunk.css",
+    "static/js/2.84e24a45.chunk.js": "/lolsim/static/js/2.84e24a45.chunk.js",
+    "static/js/2.84e24a45.chunk.js.map": "/lolsim/static/js/2.84e24a45.chunk.js.map",
+    "static/js/3.10818d6a.chunk.js": "/lolsim/static/js/3.10818d6a.chunk.js",
+    "static/js/3.10818d6a.chunk.js.map": "/lolsim/static/js/3.10818d6a.chunk.js.map",
+    "index.html": "/lolsim/index.html",
+    "static/css/2.2128f240.chunk.css.map": "/lolsim/static/css/2.2128f240.chunk.css.map",
+    "static/css/main.6d56cc4b.chunk.css.map": "/lolsim/static/css/main.6d56cc4b.chunk.css.map",
+    "static/js/2.84e24a45.chunk.js.LICENSE.txt": "/lolsim/static/js/2.84e24a45.chunk.js.LICENSE.txt",
+    "static/media/question-circle.svg": "/lolsim/static/media/question-circle.44981e3f.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.07a5d9b6.js",
+    "static/js/runtime-main.14b3e122.js",
     "static/css/2.2128f240.chunk.css",
     "static/js/2.84e24a45.chunk.js",
     "static/css/main.6d56cc4b.chunk.css",
-    "static/js/main.14bd622e.chunk.js"
+    "static/js/main.ed3af562.chunk.js"
   ]
 }

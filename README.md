@@ -1,1 +1,1 @@
-[https://lol-sim.com](https://www.lol-sim.com/)
+[https://www.lolsimulator.com](https://www.lolsimulator.com/)
